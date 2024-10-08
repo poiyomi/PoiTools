@@ -1,0 +1,18 @@
+{
+    "name": "PoiToolsExtra",
+    "rootNamespace": "Poi.Tools.Extra",
+    "references": [
+        "GUID:cb1678099f99a8644b9d0613fd1e9e4e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

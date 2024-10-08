@@ -1,0 +1,26 @@
+{
+  "name": "com.poiyomi.tools",
+  "displayName": "Poiyomi Tools",
+  "version": "0.1.0",
+  "description": "Extra tools for poiyomi shaders",
+  "url": "https://github.com/",
+  "author": {
+	"name": "Pumkin",
+    "name": "Poiyomi"
+  },
+  "gitDependencies": {},
+  "vpmDependencies" : {
+    "com.vrchat.base" : "^3.4.0"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "hideInEditor": false,
+  "license": "MIT",
+  "unity": "2019.4",
+  "legacyPackages": [
+  ],
+  "repository" : {
+	"url" : "https://github.com/rurre/poi-tools.git",
+	"type" : "git"
+  }
+}
